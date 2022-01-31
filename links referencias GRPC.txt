@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=Xmo9Ko26k5M
+
+https://www.youtube.com/watch?v=ebBBv4GIx1Y
+
+https://www.treinaweb.com.br/blog/servicos-grpc-no-asp-net-core
+
+https://auth0.com/blog/implementing-microservices-grpc-dotnet-core-3/
+
+https://github.com/auth0-blog/grpc-dotnet
+
+https://github.com/dotnet-architecture/eShopOnContainers/blob/dev/src/Services/Ordering/Ordering.API/Grpc/OrderingService.cs
+
+https://medium.com/aspnetrun/using-grpc-in-microservices-for-building-a-high-performance-interservice-communication-with-net-5-11f3e5fa0e9d

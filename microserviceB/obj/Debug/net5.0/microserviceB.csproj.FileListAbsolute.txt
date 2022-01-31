@@ -1,0 +1,6 @@
+C:\Projetos\MicroserviceGRPC\microserviceB\obj\Debug\net5.0\microserviceB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MicroserviceGRPC\microserviceB\obj\Debug\net5.0\microserviceB.AssemblyInfoInputs.cache
+C:\Projetos\MicroserviceGRPC\microserviceB\obj\Debug\net5.0\microserviceB.AssemblyInfo.cs
+C:\Projetos\MicroserviceGRPC\microserviceB\obj\Debug\net5.0\microserviceB.csproj.CoreCompileInputs.cache
+C:\Projetos\MicroserviceGRPC\microserviceB\obj\Debug\net5.0\microserviceB.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\MicroserviceGRPC\microserviceB\obj\Debug\net5.0\microserviceB.MvcApplicationPartsAssemblyInfo.cache
